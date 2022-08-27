@@ -10,7 +10,7 @@
 - 📫 How to reach me: Email: stephenadeyemo@gmail.com
 - ⚡ Fun fact: I love playing football and listening to musics
 
-👨‍💻 All of my deployed projects can be viewed [here](https://stivex001.github.io/new_portfolio)
+👨‍💻 All of my deployed projects can be viewed [here](https://stephenadeyemo.netlify.app)
 
 ## My Development Tools:
 
