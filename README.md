@@ -3,7 +3,7 @@
 ## A Frontend Developer, and SWE
 
 - 🔭 I am currently looking for new remote opportunities.
-- 🌱 I’m currently learning Python and mysql...
+- 🌱 I’m currently learning nodejs and docker...
 - 👯 I’m looking to collaborate on React project and django project
 - 🤔 I’m looking for help with full-time jobs
 - 💬 Ask me about Software Development
