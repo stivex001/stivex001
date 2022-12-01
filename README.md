@@ -3,8 +3,8 @@
 ## A Frontend Developer, and SWE
 
 - 🔭 I am currently looking for new remote opportunities.
-- 🌱 I’m currently learning nodejs and docker...
-- 👯 I’m looking to collaborate on React project and django project
+- 🌱 I’m currently learning nodejs and sql
+- 👯 I’m looking to collaborate on React project and nodejs project
 - 🤔 I’m looking for help with full-time jobs
 - 💬 Ask me about Software Development
 - 📫 How to reach me: Email: stephenadeyemo@gmail.com
