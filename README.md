@@ -3,7 +3,7 @@
 ## A Frontend Developer, and SWE
 
 - 🔭 I am currently looking for new remote opportunities.
-- 🌱 I’m currently learning nodejs, Docker and sql
+- 🌱 I’m currently learning React Navtive, nodejs, Docker and sql
 - 👯 I’m looking to collaborate on React project and nodejs project
 - 🤔 I’m looking for help with full-time jobs
 - 💬 Ask me about Software Development
